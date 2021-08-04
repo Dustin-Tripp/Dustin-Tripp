@@ -5,6 +5,8 @@
 - 📫 You can reach out to through
 --      Email: dustintripp74@gmail.com
 
+#Bio Below ⬇⬇
+
 -Graduate of southeast mo state uni with a bachelors degree in cyber security. Extensive training in cloud and web security, software and application programming, strategic planning, network infrastructure and maintenance, data flow and tracking, including criminal and forensic, business specific privacy concerns, regulations, and compliance requirements. Programming languages include C++. Html python, Java,.....Certified with N?? And Dept of homeland security. Currently I have 2 years in network and IT administrative work experience. I am dedicated to detail calm and persistent troubleshooting, pocess Excellent communication and reasoning skills, seeking full time employment with a company I can grow with and be of communal service long term. 
 
 

@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning new things every day and have just completed my Bachlors degree in Cyber Secrity
 - 💞️ I’m looking to collaborate on security concerns regaurding software and networking for buisness or personal use.
 - 📫 You can reach out to through
-      Email: dustintripp74@gmail.com
-      Phone: (573)944-0389
+--      Email: dustintripp74@gmail.com
+--      Phone: (573)944-0389
 
 <!---
 Dustin-Tripp/Dustin-Tripp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,9 @@ I'm a **Software Developer & Project Manager** who loves solving complex problem
 ## 🏆 Key Projects  
 - **Dot Matrix Data Recorder System Modernization:** Captured and digitized live communication from legacy systems, improving operational visibility without interrupting 24/7 production.  
 - **Warehouse Tracking System:** Designed a barcode-based tracking and scheduling system to enhance process workflows and resolve logistical conflicts.  
-- **Vehicle Maintenance Tracker:** Automated vehicle maintenance tracking with Google Maps integration, creating a scalable, user-friendly solution.  
+- **Vehicle Maintenance Tracker:** Automated vehicle maintenance tracking with Google Maps integration, creating a scalable, user-friendly solution.
+- **Digital signature system:** Implimented a custom built digitial signature system that allows users to sign and securly send documents within the application.  
+- **FLOW process documentation management:** An application that allows users to import customer data and automate distribution based on process data captured by the system.   
 
 ---
 
